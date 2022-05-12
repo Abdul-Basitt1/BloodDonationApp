@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BloodDonationApp</string>
+    <string-array name="BloodGroup">
+        <item>A+</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>A-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+</resources>
